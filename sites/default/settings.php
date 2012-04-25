@@ -182,9 +182,9 @@ $databases = array (
   array (
     'default' => 
     array (
-      'database' => 'c2tm_notizbuch',
-      'username' => 'c2tm_notizbuch',
-      'password' => 'achterbahn44',
+      'database' => 'db11006110-notizbuch',
+      'username' => 'db11006110-gofor',
+      'password' => 'wassup-44',
       'host' => 'localhost',
       'port' => '',
       'driver' => 'mysql',
