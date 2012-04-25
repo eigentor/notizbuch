@@ -1,0 +1,4 @@
+sites/*/files
+/files
+
+sites/*/local.settings.php
